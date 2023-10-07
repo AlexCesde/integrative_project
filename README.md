@@ -1,6 +1,7 @@
 # EPICS
 
 1- Crear la funcionalidad de ventas por mesa
+
 2- Crear la funcionalidad de ventas totales
 
 # STORIES
